@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1542891129 source:c:\users\usuario\desktop\ejerciciopre2doparcialv3\compra.c
+	"Compra.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1542889982 c:\users\usuario\desktop\ejerciciopre2doparcialv3\compra.h
+	"LinkedList.h"
+
+1542886922 c:\users\usuario\desktop\ejerciciopre2doparcialv3\utn.h
+
+1542891237 source:c:\users\usuario\desktop\ejerciciopre2doparcialv3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542891237 c:\users\usuario\desktop\ejerciciopre2doparcialv3\linkedlist.h
+
+1542891912 source:c:\users\usuario\desktop\ejerciciopre2doparcialv3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Compra.h"
+	"LinkedList.h"
+	"Parser.h"
+	<string.h>
+	"Compra.h"
+
+1542805779 c:\users\usuario\desktop\ejerciciopre2doparcialv3\parser.h
+	"LinkedList.h"
+
+1542887583 source:c:\users\usuario\desktop\ejerciciopre2doparcialv3\parser.c
+	"LinkedList.h"
+	<stdio.h>
+	<stdlib.h>
+	"Compra.h"
+	"LinkedList.h"
+	<string.h>
+
+1542825711 source:c:\users\usuario\desktop\ejerciciopre2doparcialv3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+

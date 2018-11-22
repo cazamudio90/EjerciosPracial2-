@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1542323005 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/Empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+
+1542753638 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/Empleado.h
+	"LinkedList.h"
+
+1542753638 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/LinkedList.h
+
+1542753638 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/utn.h
+
+1542753638 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542753638 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+
+1542753638 /home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/Parser.h
+	"LinkedList.h"
+
+1542753638 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/Parser.c
+	"LinkedList.h"
+	"string.h"
+	"Empleado.h"
+	<stdio.h>
+
+1542753638 source:/home/alumno/Documentos/clasesProgramacionLabPrimerCuatrimestre/EjercicioPre2doParcialV2/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1542825124 source:c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\empleado.c
+	"Empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+
+1542824537 c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\empleado.h
+	"LinkedList.h"
+
+1542822423 c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\linkedlist.h
+
+1542805779 c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\utn.h
+
+1542822423 source:c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542825309 source:c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"LinkedList.h"
+	"Parser.h"
+	"string.h"
+
+1542817079 c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\parser.h
+	"LinkedList.h"
+
+1542823787 source:c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\parser.c
+	"LinkedList.h"
+	"string.h"
+	"Empleado.h"
+	<stdio.h>
+
+1542805857 source:c:\users\usuario\desktop\clasesprogramacionlabprimercuatrimestre\ejerciciopre2doparcialv2\utn.c
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
