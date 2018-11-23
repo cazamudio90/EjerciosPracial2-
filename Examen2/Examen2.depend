@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1542929932 source:/home/alumno/Descargas/Examen2/main.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"parse.h"
+	"ventas.h"
+	"LinkedList.h"
+
+1542928406 source:/home/alumno/Descargas/Examen2/LinkedList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1542927952 /home/alumno/Descargas/Examen2/LinkedList.h
+
+1542929971 /home/alumno/Descargas/Examen2/parse.h
+	"LinkedList.h"
+
+1542929695 /home/alumno/Descargas/Examen2/ventas.h
+	"LinkedList.h"
+
+1542929949 source:/home/alumno/Descargas/Examen2/parse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"ventas.h"
+	"utn.h"
+
+1542930401 /home/alumno/Descargas/Examen2/utn.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1542930323 source:/home/alumno/Descargas/Examen2/utn.c
+	<stdio_ext.h>
+	<stdlib.h>
+	"parse.h"
+	"ventas.h"
+	"LinkedList.h"
+	<string.h>
+	"ctype.h"
+
+1542930444 source:/home/alumno/Descargas/Examen2/ventas.c
+	"ventas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
